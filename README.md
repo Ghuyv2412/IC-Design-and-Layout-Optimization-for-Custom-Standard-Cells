@@ -1,4 +1,9 @@
 # IC Design and Layout Optimization for Custom Standard Cells
+---
+### Authors
+* Gia Huy Vo @Ghuyv2412
+
+---
 ## Detailed Breakdown of Project Modules (8 Chapters)
 
 This project documents a comprehensive, hands-on digital integrated circuit design flow carried out across 8 structured laboratory modules using Synopsys EDA tools under the 90nm CMOS process node.
